@@ -2,15 +2,34 @@
 
 welcome! [code institute](https://codeinstitute.net)
 
-# h1
+## .user goals
 
-##h2
+.quick insite into the readme document
 
-###h3 
+.to understand the basics
 
-####h4
+.to learn something new
 
-#####h5
+## .design
 
-######h6
+.no design for this as it is a read me document
 
+## .features
+
+.**some** lovely features that include various header sizes and some *emphasis* when i feel like it.
+
+### .technology used
+
+. shorthand html
+
+### .testing
+
+* no testing yet
+* coming soon
+* [click me you wont be disapointed](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+## known bugs
+
+* no known bugs that i can see.
+
+***
